@@ -1,0 +1,44 @@
+﻿2019-12-16T19:55:03.3324469-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-16T19:55:03.3324469-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.38 in Framework clr40 in x86 mode execution started
+2019-12-16T19:55:03.3324469-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Coti-Maq10\Desktop\lRibeiro\BDDFirst\Projeto.BDD\Projeto.BDD\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-16T19:55:03.3854490-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Coti-Maq10\Desktop\lRibeiro\BDDFirst\Projeto.BDD\Projeto.BDD\bin\Debug\Projeto.BDD.dll
+2019-12-16T19:55:03.3864510-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Coti-Maq10\Desktop\lRibeiro\BDDFirst\Projeto.BDD\TestResults" (default)
+2019-12-16T19:55:03.3864510-03:00;VSTestExecutionThread;Info;Profile: 
+2019-12-16T19:55:03.4154517-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Coti-Maq10\Desktop\lRibeiro\BDDFirst\Projeto.BDD\TestResults\Unnamed project__2019-12-16T195503.log
+2019-12-16T19:55:03.4294522-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-16T19:55:03.4384527-03:00;Thread#14;Info;Checking license
+2019-12-16T19:55:03.4694545-03:00;Thread#14;Info;Evaluation mode: test execution starts in 5 seconds... (this delay is removed in the registered version)
+2019-12-16T19:55:08.4713633-03:00;Thread#14;Info;Evaluation delay finished.
+2019-12-16T19:55:08.4833674-03:00;Thread#14;Info;License check completed
+2019-12-16T19:55:08.4843653-03:00;Thread#14;Info;starting test run
+2019-12-16T19:55:08.5003624-03:00;Thread#14;Info;Discovering target: Default
+2019-12-16T19:55:08.5023650-03:00;Thread#14;Info;Discovering tests from assembly: C:\Users\Coti-Maq10\Desktop\lRibeiro\BDDFirst\Projeto.BDD\Projeto.BDD\bin\Debug\Projeto.BDD.dll
+2019-12-16T19:55:08.5883915-03:00;Thread#14;Info;Discovered tests from assembly: C:\Users\Coti-Maq10\Desktop\lRibeiro\BDDFirst\Projeto.BDD\Projeto.BDD\bin\Debug\Projeto.BDD.dll
+2019-12-16T19:55:08.5923913-03:00:Test Suite Dump
+2019-12-16T19:55:08.5943923-03:00:#0: Unnamed project/ - 
+2019-12-16T19:55:08.5953924-03:00:End: Test Suite Dump
+2019-12-16T19:55:08.6223932-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-16T19:55:08.6253932-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-16T19:55:08.6253932-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-16T19:55:08.6253932-03:00:Thread#0:Scheduler: No more tests for thread
+2019-12-16T19:55:08.6273931-03:00:Trying to cancel thread
+2019-12-16T19:55:08.6273931-03:00:Thread cancelled
+2019-12-16T19:55:08.6353938-03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-12-16T19:55:08.6353938-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-16T19:55:08.6353938-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-16T19:55:08.6363939-03:00;Thread#14;Info;test run finished
+2019-12-16T19:55:08.6363939-03:00;Thread#14;Info;publishing test results
+2019-12-16T19:55:08.6793957-03:00;Thread#14;Info;test results published
+2019-12-16T19:55:08.6793957-03:00;Thread#14;Info;generating reports
+2019-12-16T19:55:08.7694024-03:00;Thread#14;Info;Starting external report generation process
+2019-12-16T19:55:12.4422996-03:00;Thread#14;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-12-16T19:55:12.4422996-03:00;Thread#14;Error;External program returned exit code '-2'
+2019-12-16T19:55:12.4422996-03:00;Thread#14;Info;Failed generating reports
+2019-12-16T19:55:12.4583006-03:00:Total: 0
+2019-12-16T19:55:12.4623006-03:00:Succeeded: 0
+2019-12-16T19:55:12.4633007-03:00:Ignored: 0
+2019-12-16T19:55:12.4643008-03:00:Pending: 0
+2019-12-16T19:55:12.4643008-03:00:Skipped: 0
+2019-12-16T19:55:12.4653009-03:00:Failed: 0
+2019-12-16T19:55:12.4843021-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========
